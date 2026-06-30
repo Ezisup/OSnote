@@ -1,0 +1,4 @@
+复习USTC操作系统原理与设计课程一天速通的产物
+没找到现成的复习资料...但是考试的概念解释题太多了
+主要面向期末速通时, 整理各类杂乱的知识点
+建议结合Abraham Silberschatz著恐龙书Operating System Concept食用复习
